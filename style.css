@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(59, 11, 11);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#house{
+    position: relative;
+    left: 30%;
+
+}
+#pin-kitchen{
+    position: absolute;
+    
+    left: 50%;
+   
+    
+}
